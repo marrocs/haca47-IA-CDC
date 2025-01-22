@@ -1,0 +1,468 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "type": "aberta",
+      "question": "Estabelecimentos podem cobrar valores diferentes para cartão de crédito e dinheiro?"
+    },
+    {
+      "number": 2,
+      "type": "aberta",
+      "question": "Após receber um produto novo através da garantia, como fica a garantia desse novo produto?"
+    },
+    {
+      "number": 3,
+      "type": "aberta",
+      "question": "Estabelecimentos devem ser responsáveis pelos veículos estacionados em seus estacionamentos?"
+    },
+    {
+      "number": 4,
+      "type": "aberta",
+      "question": "O prazo de entrega não foi respeitado, e agora?"
+    },
+    {
+      "number": 5,
+      "type": "aberta",
+      "question": "O comerciante pode recusar receber cartão para produtos de baixo custo, como cigarro, balas ou sorvete?"
+    },
+    {
+      "number": 6,
+      "type": "aberta",
+      "question": "Quanto tempo meu nome deve sair do SPC/SERASA após pagamento da dívida?"
+    },
+    {
+      "number": 7,
+      "type": "aberta",
+      "question": "Pode haver promoção que aceite pagamento só em dinheiro?"
+    },
+    {
+      "number": 8,
+      "type": "aberta",
+      "question": "O preço da etiqueta está menor que o preço no caixa, qual devo pagar?"
+    },
+    {
+      "number": 9,
+      "type": "aberta",
+      "question": "Estabelecimentos podem informar os preços dos produtos em moeda estrangeira, como o dólar?"
+    },
+    {
+      "number": 10,
+      "type": "aberta",
+      "question": "Pode haver um valor mínimo para pagamento com cartão de crédito ou débito?"
+    },
+    {
+      "number": 11,
+      "type": "aberta",
+      "question": "Quais informações devem constar na etiqueta de preços de produtos em lojas?"
+    },
+    {
+      "number": 12,
+      "type": "aberta",
+      "question": "Como os preços dos produtos e serviços devem ser informados nos supermercados?"
+    },
+    {
+      "number": 13,
+      "type": "aberta",
+      "question": "Comprei um produto importado que não tem garantia no Brasil, e agora?"
+    },
+    {
+      "number": 14,
+      "type": "aberta",
+      "question": "Lojas têm obrigação de trocar produtos sem defeito?"
+    },
+    {
+      "number": 15,
+      "type": "aberta",
+      "question": "Se desistir de uma compra já concretizada, o fornecedor é obrigado a me devolver a quantia paga?"
+    },
+    {
+      "number": 16,
+      "type": "aberta",
+      "question": "Posso trocar um produto por outro após efetuar uma compra?"
+    },
+    {
+      "number": 17,
+      "type": "aberta",
+      "question": "Posso desistir da compra quanto tempo após a mesma?"
+    },
+    {
+      "number": 18,
+      "type": "aberta",
+      "question": "Qual o prazo máximo para solicitação de reparação de danos por produtos ou serviços com vício?"
+    },
+    {
+      "number": 19,
+      "type": "aberta",
+      "question": "Qual o prazo mínimo de garantia?"
+    },
+    {
+      "number": 20,
+      "type": "aberta",
+      "question": "Descobri um vício de fabricação, mas a garantia já acabou. Tenho direito à correção?"
+    },
+    {
+      "number": 21,
+      "type": "aberta",
+      "question": "O fornecedor pode devolver um produto usado quando o consumidor opta pela substituição por vício em garantia?"
+    },
+    {
+      "number": 22,
+      "type": "aberta",
+      "question": "Optei pela substituição de um produto com vício de fabricação por um novo, mas não há mais disponibilidade do mesmo, tenho direito a outro similar?"
+    },
+    {
+      "number": 23,
+      "type": "aberta",
+      "question": "Comprei um produto e o mesmo apresenta vícios de fabricação. E agora?"
+    },
+    {
+      "number": 24,
+      "type": "aberta",
+      "question": "O CDC se aplica à compras e contratações realizadas pela internet?"
+    },
+    {
+      "number": 25,
+      "type": "aberta",
+      "question": "Deve existir atendimento prioritário no delivery?"
+    },
+    {
+      "number": 26,
+      "type": "aberta",
+      "question": "Os preços de produtos de um mesmo estabelecimento podem variar dependendo da plataforma de venda?"
+    },
+    {
+      "number": 27,
+      "type": "aberta",
+      "question": "Aplicativos devem informar o prazo de validade dos produtos vendidos?"
+    },
+    {
+      "number": 28,
+      "type": "aberta",
+      "question": "Se o delivery atrasar e não cumprir a previsão de entrega, o consumidor pode cancelar a compra ou não receber o produto?"
+    },
+    {
+      "number": 29,
+      "type": "aberta",
+      "question": "A comida chegou avariada. O consumidor tem direito ao reembolso?"
+    },
+    {
+      "number": 30,
+      "type": "aberta",
+      "question": "Ao considerar que uma fruta ou um legume foi mal escolhido, o cliente pode pedir a troca do mesmo?"
+    },
+    {
+      "number": 31,
+      "type": "aberta",
+      "question": "O mercado ou o aplicativo de delivery têm responsabilidade sobre a conservação do alimento nas condições ideais até a entrega na casa do consumidor, como no caso dos congelados?"
+    },
+    {
+      "number": 32,
+      "type": "aberta",
+      "question": "Qual é o direito do consumidor no caso de entrega de produto vencido?"
+    },
+    {
+      "number": 33,
+      "type": "aberta",
+      "question": "O consumidor não recebeu o pedido, mas a empresa alega que entregou, o que fazer?"
+    },
+    {
+      "number": 34,
+      "type": "aberta",
+      "question": "O supermercado entregou produto diferente do que foi comprado. É permitido fazer a substituição de itens?"
+    },
+    {
+      "number": 35,
+      "type": "aberta",
+      "question": "Como o consumidor deve proceder se recebeu o pedido com itens faltando que foram cobrados e constam na nota fiscal?"
+    },
+    {
+      "number": 36,
+      "type": "aberta",
+      "question": "Se o consumidor se arrepender da compra, pode devolver os produtos?"
+    },
+    {
+      "number": 37,
+      "type": "aberta",
+      "question": "O consumidor pode recusar a receber o pedido se o entregador não estiver usando máscara e outros itens de proteção?"
+    },
+    {
+      "number": 38,
+      "type": "aberta",
+      "question": "Ao comprar pela internet, como saber se o site é seguro?"
+    },
+    {
+      "number": 39,
+      "type": "aberta",
+      "question": "Como fazer compras na Internet de forma mais segura?"
+    },
+    {
+      "number": 40,
+      "type": "verdadeiro_falso",
+      "question": "Quando a seção reservada aos Contratos de Adesão do Código de Defesa do Consumidor entende que as cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão."
+    },
+    {
+      "number": 41,
+      "type": "verdadeiro_falso",
+      "question": "Constitui-se pena de detenção de 1 mês a 2 anos de prisão quando existe a omissão de dizeres ou sinais ostensivos sobre a nocividade ou periculosidade de produtos, nas embalagens, nos invólucros, recipientes ou publicidade."
+    },
+    {
+      "number": 42,
+      "type": "verdadeiro_falso",
+      "question": "A defesa dos interesses e direitos dos consumidores e das vítimas poderá ser exercida em juízo apenas individualmente."
+    },
+    {
+      "number": 43,
+      "type": "verdadeiro_falso",
+      "question": "A liquidação e a execução de sentença poderão ser promovidas pela vítima e seus sucessores, assim como pelos legitimados (Ministério Público, a União, os Estados, os Municípios e o Distrito Federal)."
+    },
+    {
+      "number": 44,
+      "type": "verdadeiro_falso",
+      "question": "No caso de conciliação, com qualquer credor, a sentença judicial que homologar o acordo descreverá o plano de pagamento da dívida e terá eficácia de título executivo, contudo não terá força de coisa julgada."
+    },
+    {
+      "number": 45,
+      "type": "verdadeiro_falso",
+      "question": "As entidades civis de consumidores e as associações de fornecedores ou sindicatos de categoria econômica podem regular, por convenção escrita, relações de consumo que tenham por objeto estabelecer condições relativas ao preço, à qualidade, à quantidade, à garantia e características de produtos e serviços, bem como à reclamação e composição do conflito de consumo."
+    },
+    {
+      "number": 46,
+      "type": "verdadeiro_falso",
+      "question": "O fornecedor não poderá colocar no mercado de consumo produto ou serviço que sabe ou deveria saber apresentar alto grau de nocividade ou periculosidade à saúde ou segurança."
+    },
+    {
+      "number": 47,
+      "type": "verdadeiro_falso",
+      "question": "Produto é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista."
+    },
+    {
+      "number": 48,
+      "type": "verdadeiro_falso",
+      "question": "O acesso aos órgãos judiciários e administrativos com vistas à prevenção ou reparação de danos patrimoniais e morais, individuais, coletivos ou difusos, assegurada a proteção Jurídica, administrativa e técnica aos necessitados não são direitos básicos do consumidor."
+    },
+    {
+      "number": 49,
+      "type": "verdadeiro_falso",
+      "question": "Os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando-se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito."
+    },
+    {
+      "number": 50,
+      "type": "objetiva",
+      "question": "Se um consumidor encontrar um produto vencido em um supermercado, quais são as opções disponíveis para ele?",
+      "options": [
+        "A) Substituir o produto por outro da mesma espécie dentro do prazo de validade.",
+        "B) Pagar uma multa ao supermercado por reclamar.",
+        "C) Apenas denunciar o supermercado ao Procon.",
+        "D) Solicitar abatimento no preço, substituição do produto ou devolução do valor pago."
+      ]
+    },
+    {
+      "number": 51,
+      "type": "objetiva",
+      "question": "O prazo de garantia mínima para bens duráveis, como eletrodomésticos, é de quanto tempo?",
+      "options": [
+        "A) 90 dias.",
+        "B) 30 dias.",
+        "C) 180 dias.",
+        "D) 60 dias."
+      ]
+    },
+    {
+      "number": 52,
+      "type": "objetiva",
+      "question": "O consumidor tem direito a quantos dias para desistir de uma compra feita fora do estabelecimento comercial?",
+      "options": [
+        "A) 5 dias.",
+        "B) 7 dias.",
+        "C) 10 dias.",
+        "D) 15 dias."
+      ]
+    },
+    {
+      "number": 53,
+      "type": "objetiva",
+      "question": "Se um produto apresentar defeito durante o prazo de garantia, o fornecedor tem quanto tempo para consertá-lo?",
+      "options": [
+        "A) 10 dias.",
+        "B) 30 dias.",
+        "C) 60 dias.",
+        "D) 90 dias."
+      ]
+    },
+    {
+      "number": 54,
+      "type": "objetiva",
+      "question": "O direito à informação está garantido no Código de Defesa do Consumidor em qual artigo?",
+      "options": [
+        "A) Artigo 5º.",
+        "B) Artigo 8º.",
+        "C) Artigo 10º.",
+        "D) Artigo 6º."
+      ]
+    },{
+      "number": 55,
+      "type": "objetiva",
+      "question": "O fornecedor deve solucionar problemas de vício de fabricação em até quanto tempo?",
+      "options": [
+        "A) 15 dias.",
+        "B) 30 dias.",
+        "C) 45 dias.",
+        "D) 60 dias."
+      ]
+    },
+    {
+      "number": 56,
+      "type": "objetiva",
+      "question": "Em uma compra pela internet, qual é o prazo para devolução do produto por arrependimento?",
+      "options": [
+        "A) 5 dias.",
+        "B) 7 dias.",
+        "C) 10 dias.",
+        "D) 15 dias."
+      ]
+    },
+    {
+      "number": 57,
+      "type": "objetiva",
+      "question": "Qual é a principal lei que protege os direitos do consumidor no Brasil?",
+      "options": [
+        "A) Código Civil.",
+        "B) Código Penal.",
+        "C) Código de Defesa do Consumidor.",
+        "D) Constituição Federal."
+      ]
+    },
+    {
+      "number": 58,
+      "type": "objetiva",
+      "question": "Em casos de propaganda enganosa, qual órgão deve ser acionado?",
+      "options": [
+        "A) Ministério Público.",
+        "B) PROCON.",
+        "C) Polícia Federal.",
+        "D) Receita Federal."
+      ]
+    },
+    {
+      "number": 59,
+      "type": "objetiva",
+      "question": "O Código de Defesa do Consumidor foi instituído em qual ano?",
+      "options": [
+        "A) 1990.",
+        "B) 1992.",
+        "C) 1988.",
+        "D) 1995."
+      ]
+    },
+    {
+      "number": 60,
+      "type": "objetiva",
+      "question": "O direito à proteção da vida, saúde e segurança é garantido em qual capítulo do CDC?",
+      "options": [
+        "A) Capítulo I.",
+        "B) Capítulo II.",
+        "C) Capítulo III.",
+        "D) Capítulo IV."
+      ]
+    },
+    {
+      "number": 61,
+      "type": "objetiva",
+      "question": "O CDC garante que o consumidor tem direito a um atendimento prioritário em quais situações?",
+      "options": [
+        "A) Todas as situações.",
+        "B) Quando é idoso, gestante ou possui deficiência.",
+        "C) Apenas para idosos acima de 80 anos.",
+        "D) Apenas em serviços públicos."
+      ]
+    },
+    {
+      "number": 62,
+      "type": "objetiva",
+      "question": "Se um produto apresentar defeito e não for reparado em 30 dias, o consumidor pode exigir:",
+      "options": [
+        "A) A devolução do dinheiro.",
+        "B) Um produto novo.",
+        "C) Abatimento proporcional no preço.",
+        "D) Qualquer uma das opções acima."
+      ]
+    },
+    {
+      "number": 63,
+      "type": "objetiva",
+      "question": "Qual é o prazo para reclamar de defeitos aparentes em produtos não duráveis?",
+      "options": [
+        "A) 7 dias.",
+        "B) 30 dias.",
+        "C) 90 dias.",
+        "D) 180 dias."
+      ]
+    },
+    {
+      "number": 64,
+      "type": "objetiva",
+      "question": "Quando um serviço não é prestado de forma adequada, o consumidor pode exigir:",
+      "options": [
+        "A) Reexecução do serviço.",
+        "B) Restituição imediata do valor pago.",
+        "C) Desconto proporcional ao serviço prestado.",
+        "D) Qualquer uma das opções acima."
+      ]
+    },
+    {
+      "number": 65,
+      "type": "objetiva",
+      "question": "Propagandas que induzem ao erro podem ser classificadas como:",
+      "options": [
+        "A) Propaganda enganosa.",
+        "B) Propaganda comparativa.",
+        "C) Publicidade institucional.",
+        "D) Publicidade informativa."
+      ]
+    },
+    {
+      "number": 66,
+      "type": "objetiva",
+      "question": "Qual é o órgão responsável por fiscalizar práticas de consumo no Brasil?",
+      "options": [
+        "A) Ministério da Justiça.",
+        "B) Banco Central.",
+        "C) PROCON.",
+        "D) Receita Federal."
+      ]
+    },
+    {
+      "number": 67,
+      "type": "objetiva",
+      "question": "O prazo para devolução de valores pagos em caso de cancelamento de um contrato deve ser:",
+      "options": [
+        "A) Imediato.",
+        "B) Até 7 dias.",
+        "C) Até 15 dias.",
+        "D) Até 30 dias."
+      ]
+    },
+    {
+      "number": 68,
+      "type": "objetiva",
+      "question": "Se um contrato contiver cláusulas abusivas, o consumidor pode:",
+      "options": [
+        "A) Solicitar a revisão judicial do contrato.",
+        "B) Aceitar as condições impostas.",
+        "C) Denunciar diretamente ao PROCON.",
+        "D) Apenas as opções A e C."
+      ]
+    },
+    {
+      "number": 69,
+      "type": "objetiva",
+      "question": "O direito à informação clara e precisa é previsto em qual princípio do CDC?",
+      "options": [
+        "A) Boa-fé.",
+        "B) Transparência.",
+        "C) Eficiência.",
+        "D) Liberdade econômica."
+      ]
+    }
+  ]
+}
