@@ -10,7 +10,7 @@ Artefatos gerados:
 
 - / venv_llm:
 
- Diretorio que armazena as bibliotecas necessárias para rodar o ambiente virtual;
+  Diretorio que armazena as bibliotecas necessárias para rodar o ambiente virtual;
   
 - Dockerfile:
 
@@ -18,7 +18,7 @@ Artefatos gerados:
 
 - script.py
 
- Arquivo python que contem o código principal que deve executar as chamadas para o modelo;
+  Arquivo python que contem o código principal que deve executar as chamadas para o modelo;
 
 - aula_sabado.ipynb
 
