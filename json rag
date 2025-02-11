@@ -1,0 +1,553 @@
+[
+  {
+    "instruction": "Assinei um contrato de serviço que possui cláusulas que não entendi totalmente. O fornecedor disse que não pode alterar. Isso é válido?",
+    "context": "Artigo 46 do Código de Defesa do Consumidor:\n\"Os contratos que regulam as relações de consumo não obrigarão os consumidores, se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo, ou se os respectivos instrumentos forem redigidos de modo a dificultar a compreensão de seu sentido e alcance.\"\nArtigo 47:\n\"As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.\"",
+    "response": "Não é válido que o contrato possua cláusulas que você não compreende. De acordo com o Artigo 46, os contratos não obrigam o consumidor se não for dada a oportunidade de conhecer e compreender seu conteúdo. Além disso, o Artigo 47 estabelece que quaisquer cláusulas ambíguas serão interpretadas de forma mais favorável ao consumidor."
+  },
+  {
+    "instruction": "A loja está cobrando um valor mínimo para compras no cartão de crédito. Isso é permitido?",
+    "context": "Artigo 39 do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas:\nV - exigir do consumidor vantagem manifestamente excessiva;\"",
+    "response": "Não, essa prática é considerada abusiva. Segundo o Artigo 39, inciso V, exigir vantagem manifestamente excessiva é proibido. Estabelecer um valor mínimo para compras no cartão de crédito pode ser entendido como uma vantagem excessiva imposta ao consumidor."
+  },
+  {
+    "instruction": "Recebi um produto diferente do que comprei pela internet. Quais são meus direitos?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor de produtos ou serviços recusar cumprimento à oferta...\"\nArtigo 49:\n\"O consumidor pode desistir do contrato, no prazo de sete dias a contar...\"\nArtigo 18:\n\"Os fornecedores... respondem pelos vícios de qualidade ou quantidade...\"",
+    "response": "Você tem direito a exigir o produto correto ou cancelar a compra. De acordo com o Artigo 35, pode exigir o cumprimento forçado da oferta. Além disso, o Artigo 49 permite que você desista do contrato no prazo de 7 dias. O Artigo 18 também estabelece que o fornecedor é responsável por vícios de qualidade ou quantidade."
+  },
+  {
+    "instruction": "Um estabelecimento negou-se a aceitar meu cheque como forma de pagamento. Isso é legal?",
+    "context": "Artigo 39 do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor de produtos ou serviços... recusar atendimento às demandas dos consumidores, na exata medida de suas disponibilidades de estoque...\"",
+    "response": "Sim, é legal. Cheques são ordens de pagamento à vista, mas não há obrigação legal para os estabelecimentos aceitarem cheques. Desde que o estabelecimento não aceite cheques de nenhum cliente, não configura prática discriminatória ou abusiva."
+  },
+  {
+    "instruction": "Após solicitar o cancelamento de um serviço de telefonia, continuam cobrando as mensalidades. Como proceder?",
+    "context": "Artigo 13 do Código de Defesa do Consumidor:\n\"O fornecedor é responsável... até mesmo pelos atos de seus prepostos ou representantes autônomos.\"\nArtigo 14:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores...\"",
+    "response": "Você deve formalizar novamente o pedido de cancelamento e pode exigir a cessação das cobranças indevidas. Conforme os Artigos 13 e 14, o fornecedor é responsável pelos danos causados, incluindo cobranças após o cancelamento. Você tem direito à restituição dos valores pagos indevidamente."
+  },
+  {
+    "instruction": "Uma loja não quer trocar um produto com defeito porque não tenho a nota fiscal, mas tenho o comprovante de pagamento. Eles podem se recusar?",
+    "context": "Artigo 26 do Código de Defesa do Consumidor:\n\"O direito de reclamar pelos vícios aparentes ou de fácil constatação caduca em...\"\nArtigo 51, inciso IV:\n\"São nulas de pleno direito... as cláusulas que estabeleçam obrigações consideradas iníquas, abusivas...\"",
+    "response": "A loja não pode se recusar a trocar o produto apenas pela falta da nota fiscal se você possui outra prova da compra, como o comprovante de pagamento. Exigir exclusivamente a nota pode ser considerado uma prática abusiva, conforme o Artigo 51, inciso IV."
+  },
+  {
+    "instruction": "Encontrei um corpo estranho dentro de um alimento que comprei. O que devo fazer?",
+    "context": "Artigo 12 do Código de Defesa do Consumidor:\n\"O fabricante... responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação...\"\nArtigo 18:\n\"Os fornecedores... respondem pelos vícios de qualidade...\"",
+    "response": "Você deve entrar em contato com o fabricante ou fornecedor e relatar o ocorrido. Eles são responsáveis pelos defeitos do produto que podem causar riscos à saúde, conforme os Artigos 12 e 18. Você tem direito à reparação dos danos e à substituição do produto."
+  },
+  {
+    "instruction": "Recebi uma cobrança sem identificação do fornecedor. Isso é permitido?",
+    "context": "Artigo 42-A do Código de Defesa do Consumidor:\n\"Em todos os documentos de cobrança de débitos apresentados ao consumidor, deverão constar o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional de Pessoa Jurídica - CNPJ do fornecedor...\"",
+    "response": "Não, isso não é permitido. Conforme o Artigo 42-A, toda cobrança deve conter informações claras sobre o fornecedor, incluindo nome, endereço e CPF ou CNPJ. Cobranças sem essa identificação são irregulares."
+  },
+  {
+    "instruction": "Um site não informa claramente o preço total do produto com as taxas incluídas. Isso está correto?",
+    "context": "Artigo 31 do Código de Defesa do Consumidor:\n\"A oferta e apresentação de produtos ou serviços devem assegurar informações corretas, claras, precisas... sobre... preço... entre outros dados...\"",
+    "response": "Não está correto. O Artigo 31 determina que todas as informações, incluindo o preço total com taxas, devem ser claras e precisas. A omissão dessas informações pode configurar prática abusiva."
+  },
+  {
+    "instruction": "A propaganda de um produto afirma benefícios que não são comprovados cientificamente. Isso é legal?",
+    "context": "Artigo 37 do Código de Defesa do Consumidor:\n\"É proibida toda publicidade enganosa ou abusiva.\"\nParágrafo 1º:\n\"É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário... capaz de induzir em erro o consumidor...\"",
+    "response": "Não é legal. Segundo o Artigo 37, publicidade que induz o consumidor a erro é considerada enganosa e proibida. A propaganda deve ser baseada em dados verdadeiros e comprováveis."
+  },
+  {
+    "instruction": "Meu voo atrasou mais de 4 horas e a companhia aérea não ofereceu assistência. Quais são meus direitos?",
+    "context": "Enquanto o Código de Defesa do Consumidor estabelece princípios gerais, para casos específicos de transporte aéreo aplicam-se também normas da Agência Nacional de Aviação Civil (ANAC). No entanto, o CDC protege o consumidor contra práticas abusivas e garante o direito à reparação por falhas na prestação do serviço.",
+    "response": "Você tem direito a receber assistência material da companhia aérea, como comunicação, alimentação e acomodação, além de possível indenização por danos morais e materiais devido ao atraso. O Código de Defesa do Consumidor assegura seu direito à reparação por falhas na prestação do serviço."
+  },
+  {
+    "instruction": "Uma empresa se recusa a cancelar um serviço alegando fidelidade de 2 anos, mas não fui informado sobre isso. O que fazer?",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara sobre os diferentes produtos e serviços...\"\nArtigo 51, inciso IV:\n\"São nulas de pleno direito... as cláusulas que estabeleçam obrigações consideradas iníquas, abusivas...\"",
+    "response": "Se você não foi informado claramente sobre a fidelidade, a cláusula é nula. Conforme o Artigo 6º, você tem direito à informação adequada. O Artigo 51 declara nulas as cláusulas abusivas ou que coloquem o consumidor em desvantagem exagerada. Você pode exigir o cancelamento sem ônus."
+  },
+  {
+    "instruction": "Comprei um automóvel que apresentou defeitos repetidos após consertos. Posso pedir a substituição?",
+    "context": "Artigo 18 do Código de Defesa do Consumidor:\n\"Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir...:\nI - a substituição do produto por outro da mesma espécie, em perfeitas condições de uso;\"",
+    "response": "Sim, você pode solicitar a substituição do veículo. Conforme o Artigo 18, se o defeito não é sanado em 30 dias, o consumidor pode exigir a substituição por outro produto em perfeitas condições."
+  },
+  {
+    "instruction": "A empresa alterou o índice de reajuste previsto em contrato sem minha concordância. Isso é permitido?",
+    "context": "Artigo 51 do Código de Defesa do Consumidor:\n\"São nulas de pleno direito... as cláusulas que:\nX - permitam ao fornecedor, direta ou indiretamente, variação do preço de maneira unilateral;\"",
+    "response": "Não é permitido. Conforme o Artigo 51, inciso X, são nulas as cláusulas que permitem ao fornecedor alterar o preço de forma unilateral. Qualquer alteração deve ser acordada entre as partes."
+  },
+  {
+    "instruction": "Ao contratar um seguro, não me informaram sobre certas exclusões de cobertura. Posso contestar?",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara sobre os diferentes produtos e serviços...\"\nArtigo 46:\n\"Os contratos... não obrigarão os consumidores, se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo...\"",
+    "response": "Sim, você pode contestar. Conforme os Artigos 6º e 46, você tem direito a informações claras sobre o contrato. Cláusulas não informadas previamente não obrigam o consumidor."
+  },
+  {
+    "instruction": "Uma loja anunciou um produto com preço muito baixo por engano e não quer vender. Posso exigir a compra?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade... obriga o fornecedor...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Sim, em princípio, você pode exigir o cumprimento da oferta conforme os Artigos 30 e 35. No entanto, se o erro for grotesco e facilmente identificável, pode-se entender que houve equívoco justificável, e as normas podem interpretar de forma diversa."
+  },
+  {
+    "instruction": "O fornecedor pode inserir meu nome em cadastro negativo após dívida prescrita?",
+    "context": "Artigo 43, §1º do Código de Defesa do Consumidor:\n\"Os cadastros... não poderão conter informações negativas referentes a período superior a cinco anos.\"",
+    "response": "Não, não pode. Conforme o Artigo 43, §1º, informações sobre dívidas não podem constar em cadastros de inadimplentes após cinco anos. Inserir seu nome após esse período é ilegal."
+  },
+  {
+    "instruction": "Uma escola aumentou as mensalidades durante o ano letivo sem aviso prévio. Isso é correto?",
+    "context": "Artigo 6º, inciso V do Código de Defesa do Consumidor:\n\"São direitos básicos... a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais...\"\nLei nº 9.870/99, Artigo 1º, §5º:\n\"Os alunos já matriculados... terão preferência na renovação... sendo-lhes garantidas todas as condições... incluindo preço, estabelecidas na última parcela da anuidade ou semestralidade escolar anterior...\"",
+    "response": "Não é correto. O aumento de mensalidades deve ser comunicado e ajustado antes do início do período letivo, garantindo transparência e previsibilidade ao consumidor. Alterações durante o período violam seus direitos."
+  },
+  {
+    "instruction": "Posso exigir a devolução do dinheiro se um serviço não foi prestado conforme contratado?",
+    "context": "Artigo 20 do Código de Defesa do Consumidor:\n\"Se o serviço não é prestado conforme contratado, o consumidor poderá exigir, alternativamente e à sua escolha:\nI - a reexecução dos serviços, sem custo adicional;\nII - a restituição imediata da quantia paga, monetariamente atualizada...\"",
+    "response": "Sim, você pode exigir a restituição do valor pago. Conforme o Artigo 20, se o serviço não for prestado adequadamente, o consumidor pode escolher entre a reexecução do serviço ou a restituição imediata do valor."
+  },
+  {
+    "instruction": "Uma oferta publicitária diz 'válido até enquanto durarem os estoques'. Isso é permitido?",
+    "context": "Artigo 31 do Código de Defesa do Consumidor:\n\"A oferta... deve assegurar informações corretas, claras, precisas...\"\nArtigo 37:\n\"É proibida toda publicidade enganosa ou abusiva.\"\nArtigo 39, inciso XII:\n\"É vedado ao fornecedor... deixar de estipular prazo para o cumprimento de sua obrigação...\"",
+    "response": "Essa prática é questionável. O Artigo 39, inciso XII, proíbe deixar de estipular prazo para cumprimento da obrigação ou deixá-lo a critério exclusivo do fornecedor. A expressão 'enquanto durarem os estoques' pode não ser suficiente para informar claramente o consumidor."
+  },
+  {
+    "instruction": "Estou sofrendo cobranças por um serviço cancelado há meses. O que fazer?",
+    "context": "Artigo 42 do Código de Defesa do Consumidor:\n\"O consumidor inadimplente não será exposto a ridículo...\"\nParágrafo único:\n\"O consumidor cobrado em quantia indevida tem direito à repetição do indébito...\"",
+    "response": "Você deve notificar a empresa sobre a cobrança indevida e solicitar o cancelamento das cobranças. Conforme o Artigo 42, você tem direito à devolução em dobro dos valores pagos indevidamente. Se a situação persistir, procure os órgãos de defesa do consumidor."
+  },
+  {
+    "instruction": "Uma clínica médica se recusa a fornecer meu prontuário. Isso é legal?",
+    "context": "Embora o Código de Defesa do Consumidor não trate especificamente de prontuários médicos, o Artigo 6º, inciso III, estabelece o direito à informação adequada. Além disso, o Código de Ética Médica exige que o prontuário seja disponibilizado ao paciente.",
+    "response": "Não é legal. Você tem direito a obter uma cópia do seu prontuário médico. A recusa em fornecê-lo viola seu direito à informação sobre serviços prestados."
+  },
+  {
+    "instruction": "Contratei um serviço de internet ilimitada, mas a velocidade é reduzida após certo consumo. Isso é correto?",
+    "context": "Artigo 31 do Código de Defesa do Consumidor:\n\"A oferta... deve assegurar informações corretas, claras, precisas...\"\nArtigo 37:\n\"É proibida toda publicidade enganosa ou abusiva.\"",
+    "response": "Se a redução de velocidade não foi informada previamente de forma clara, a prática pode ser considerada enganosa, violando os Artigos 31 e 37. Você pode contestar a empresa por não cumprir a oferta conforme anunciada."
+  },
+  {
+    "instruction": "Posso devolver um produto personalizado que não atendeu às minhas expectativas?",
+    "context": "Artigo 49 do Código de Defesa do Consumidor prevê o direito de arrependimento em compras fora do estabelecimento comercial, mas produtos personalizados podem ter exceções. Além disso, o Artigo 18 trata de vícios do produto.",
+    "response": "No caso de produtos personalizados, o direito de arrependimento pode não se aplicar, a menos que haja defeitos ou o produto não corresponda ao contratado. Se houver vícios, você pode buscar reparação conforme o Artigo 18."
+  },
+  {
+    "instruction": "Uma academia cobra multa alta por cancelamento de contrato. Isso é permitido?",
+    "context": "Artigo 51 do Código de Defesa do Consumidor:\n\"São nulas de pleno direito... as cláusulas que estabeleçam obrigações consideradas iníquas, abusivas...\"\n§1º:\n\"Presume-se exagerada a vantagem que... se mostra excessivamente onerosa para o consumidor...\"",
+    "response": "Cobrar multa abusiva é considerado prática abusiva. Conforme o Artigo 51, cláusulas que impõem obrigações excessivamente onerosas são nulas. Você pode contestar a multa e negociar um valor razoável."
+  },
+  {
+    "instruction": "Comprei um ingresso para um show que foi cancelado, mas a produtora não quer reembolsar. O que faço?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... rescindir o contrato, com direito à restituição de quantia... e a perdas e danos.\"",
+    "response": "Você tem direito ao reembolso do valor pago. Conforme o Artigo 35, em caso de não cumprimento da oferta, o consumidor pode rescindir o contrato e receber a quantia paga, além de possíveis indenizações."
+  },
+  {
+    "instruction": "Uma clínica veterinária realizou procedimentos não autorizados em meu animal e cobrou por eles. Isso é correto?",
+    "context": "Artigo 39 do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... executar serviços sem a prévia elaboração de orçamento e autorização expressa do consumidor...\"",
+    "response": "Não é correto. Conforme o Artigo 39, inciso VI, é proibido executar serviços sem autorização prévia. Você não é obrigado a pagar por procedimentos não autorizados."
+  },
+  {
+    "instruction": "Encontrei produtos vencidos à venda em um supermercado. Quais medidas posso tomar?",
+    "context": "Artigo 18 do Código de Defesa do Consumidor, §6º:\n\"São impróprios ao uso e consumo:\nI - os produtos cujos prazos de validade estejam vencidos;\"",
+    "response": "Você pode denunciar o estabelecimento aos órgãos de defesa do consumidor e vigilância sanitária. A venda de produtos vencidos é ilegal, conforme o Artigo 18, §6º, inciso I."
+  },
+  {
+    "instruction": "A empresa não quer consertar meu aparelho na garantia porque perdi a nota fiscal. O que posso fazer?",
+    "context": "Artigo 26, §3º do Código de Defesa do Consumidor:\n\"Tratando-se de vício oculto, o prazo decadencial inicia-se no momento em que ficar evidenciado o defeito.\"\nArtigo 51, inciso IV:\n\"São nulas de pleno direito... as cláusulas que estabeleçam obrigações consideradas iníquas, abusivas...\"",
+    "response": "Você pode apresentar outros comprovantes de compra, como garantias estendidas, faturas de cartão ou registros eletrônicos. A exigência exclusiva da nota fiscal pode ser considerada abusiva. Você tem direito à garantia legal independentemente da nota, desde que comprove a compra."
+  },
+  {
+    "instruction": "Uma loja se recusa a trocar um produto que não me serviu, alegando que não há defeito. Eles estão certos?",
+    "context": "O Código de Defesa do Consumidor não obriga o fornecedor a trocar produtos sem defeito por simples desistência ou insatisfação, exceto em casos de compras fora do estabelecimento comercial (Artigo 49).",
+    "response": "Sim, a loja não é obrigada a trocar o produto se não houver defeito e a compra foi realizada no estabelecimento físico. A troca nesses casos é uma liberalidade do comerciante."
+  },
+  {
+    "instruction": "Posso exigir que uma empresa apague meus dados pessoais de seus sistemas?",
+    "context": "Embora o CDC não trate especificamente dessa questão, a Lei Geral de Proteção de Dados (LGPD) assegura o direito ao titular dos dados de requerer sua exclusão.",
+    "response": "Sim, você pode solicitar a exclusão de seus dados pessoais conforme previsto na LGPD. A empresa tem a obrigação de atender ao seu pedido, salvo exceções previstas em lei."
+  },
+  {
+    "instruction": "Recebi uma oferta publicitária por e-mail sem nunca ter fornecido meu endereço eletrônico. Isso é permitido?",
+    "context": "Artigo 43 do Código de Defesa do Consumidor:\n\"O consumidor terá acesso às informações existentes em cadastros... sobre ele, bem como sobre as suas respectivas fontes.\"\nArtigo 39, inciso III:\n\"É vedado ao fornecedor... enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto, ou fornecer qualquer serviço;\"",
+    "response": "Não é permitido utilizar seus dados pessoais sem consentimento. Você pode solicitar à empresa que informe como obteve seu e-mail e exigir a remoção de seus dados de seus cadastros, conforme o Artigo 43."
+  },
+  {
+    "instruction": "A empresa mudou o contrato de prestação de serviços sem me avisar. Isso é permitido?",
+    "context": "Artigo 51 do Código de Defesa do Consumidor:\n\"São nulas de pleno direito... as cláusulas que:\nXIII - autorizem o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato, após sua celebração;\"",
+    "response": "Não, isso não é permitido. O Artigo 51, inciso XIII, estabelece que são nulas as cláusulas que autorizam o fornecedor a modificar unilateralmente o contrato. Qualquer alteração deve ser informada e acordada com o consumidor."
+  },
+  {
+    "instruction": "Posso exigir que a loja conserte um produto fora do prazo de garantia porque apresentou defeito de fabricação?",
+    "context": "Artigo 26, §3º do Código de Defesa do Consumidor:\n\"Tratando-se de vício oculto, o prazo decadencial inicia-se no momento em que ficar evidenciado o defeito.\"",
+    "response": "Sim, se o defeito for um vício oculto de fabricação, o prazo para reclamar começa a contar a partir da sua descoberta, conforme o Artigo 26, §3º. Você pode exigir a reparação pelo fornecedor."
+  },
+  {
+    "instruction": "A garantia estendida oferecida pela loja é obrigatória?",
+    "context": "Artigo 39 do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço...\"",
+    "response": "Não, a garantia estendida não é obrigatória. Conforme o Artigo 39, inciso I, é proibido condicionar a venda de um produto à aquisição de outro serviço. A contratação deve ser opcional."
+  },
+  {
+    "instruction": "Uma loja pode me cobrar preço diferente do anunciado na vitrine?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade... obriga o fornecedor...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Não, a loja deve cumprir o preço anunciado. Segundo os Artigos 30 e 35, você pode exigir o cumprimento da oferta pelo preço divulgado."
+  },
+  {
+    "instruction": "Contratei um serviço de turismo que foi cancelado por força maior. Tenho direito ao reembolso?",
+    "context": "O Código de Defesa do Consumidor prevê a proteção dos direitos do consumidor, mas situações de força maior podem ser excepcionais e requerem análise específica. Artigo 6º, inciso VI:\n\"São direitos básicos do consumidor: a efetiva prevenção e reparação de danos patrimoniais e morais...\"",
+    "response": "Em casos de força maior, é necessário verificar as condições contratuais e legislação específica. Contudo, o Artigo 6º, inciso VI, assegura seu direito à reparação de danos. Negocie com a empresa uma solução viável, como reagendamento ou reembolso."
+  },
+  {
+    "instruction": "Recebi uma dívida antiga de mais de 10 anos. Sou obrigado a pagar?",
+    "context": "O Código Civil estabelece que dívidas prescrevem em prazos específicos. O Código de Defesa do Consumidor protege contra práticas abusivas de cobrança. Artigo 42 do CDC:\n\"Na cobrança de débitos, o consumidor inadimplente não será... submetido a qualquer tipo de constrangimento ou ameaça.\"",
+    "response": "Dívidas muito antigas podem estar prescritas. Você não é obrigado a pagar dívidas prescritas, e a empresa não pode constrangê-lo ou ameaçá-lo para cobrar. Verifique o prazo prescricional aplicável à dívida em questão."
+  },
+  {
+    "instruction": "A empresa pode negar-se a fornecer orçamento por escrito?",
+    "context": "Artigo 40 do Código de Defesa do Consumidor:\n\"O fornecedor de serviço é obrigado a entregar ao consumidor orçamento prévio discriminando o valor da mão de obra, dos materiais e equipamentos a serem empregados...\"",
+    "response": "Não, a empresa é obrigada a fornecer um orçamento por escrito, conforme o Artigo 40. O orçamento deve ser detalhado e discriminado."
+  },
+  {
+    "instruction": "Ao contratar um plano de saúde, não fui informado sobre carências. Posso exigir o atendimento imediato?",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara sobre os diferentes produtos e serviços...\"",
+    "response": "Sim, se você não foi informado sobre os períodos de carência, pode exigir o atendimento imediato. A falta de informação clara viola o Artigo 6º, inciso III."
+  },
+  {
+    "instruction": "A loja se recusa a devolver meu dinheiro após eu desistir da compra dentro do prazo legal. O que fazer?",
+    "context": "Artigo 49 do Código de Defesa do Consumidor:\n\"O consumidor pode desistir do contrato, no prazo de sete dias...\"\nParágrafo único:\n\"...os valores... serão devolvidos, de imediato...\"",
+    "response": "Você tem o direito à devolução imediata do valor pago. Conforme o Artigo 49, se exercer o direito de arrependimento no prazo legal, a loja deve reembolsá-lo sem demora."
+  },
+  {
+    "instruction": "Uma empresa está usando minhas imagens em propagandas sem minha autorização. Isso é permitido?",
+    "context": "Artigo 5º, inciso X da Constituição Federal:\n\"São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas...\"",
+    "response": "Não, isso não é permitido. A utilização da sua imagem sem consentimento viola seu direito constitucional à privacidade e imagem. Você pode exigir a retirada das imagens e reparação por danos."
+  },
+  {
+    "instruction": "O fornecedor pode cancelar minha compra alegando erro no preço anunciado online?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Em geral, você pode exigir o cumprimento da oferta. Contudo, se o erro for manifesto e evidente (por exemplo, um produto de alto valor anunciado por preço irrisório), pode ser considerado erro justificável, e a empresa não seria obrigada a cumprir."
+  },
+  {
+    "instruction": "Recebi um produto com embalagem violada. Posso exigir a troca?",
+    "context": "Artigo 18 do Código de Defesa do Consumidor:\n\"Os fornecedores... respondem pelos vícios de qualidade... que os tornem impróprios ou inadequados ao consumo...\"",
+    "response": "Sim, você pode exigir a substituição do produto. A embalagem violada compromete a integridade e segurança do produto, tornando-o impróprio ao consumo, conforme o Artigo 18."
+  },
+  {
+    "instruction": "Meu plano de internet está entregando velocidade inferior à contratada. Quais são meus direitos?",
+    "context": "Artigo 20 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo...\"",
+    "response": "Você tem direito a exigir que o serviço seja prestado conforme contratado. Pode solicitar a reexecução do serviço, abatimento proporcional do preço ou rescindir o contrato, conforme o Artigo 20."
+  },
+  {
+    "instruction": "Comprei um produto em liquidação e ele apresentou defeito. A loja diz que não troca porque estava em promoção. Isso é certo?",
+    "context": "Artigo 18 do Código de Defesa do Consumidor:\n\"Os fornecedores... respondem pelos vícios de qualidade...\"",
+    "response": "Não, isso não é correto. A venda em promoção não elimina a responsabilidade do fornecedor pelos defeitos do produto. Você tem direito à reparação conforme o Artigo 18."
+  },
+  {
+    "instruction": "Uma loja online exige cadastro com informações pessoais excessivas para concluir a compra. Isso é permitido?",
+    "context": "Artigo 39, inciso V do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... exigir do consumidor vantagem manifestamente excessiva;\"",
+    "response": "Não é adequado exigir informações além do necessário para a transação. Coletar dados pessoais excessivos pode ser considerado uma vantagem manifestamente excessiva, violando o Artigo 39."
+  },
+  {
+    "instruction": "Estou sendo negativado por uma dívida que já paguei. O que posso fazer?",
+    "context": "Artigo 43, §3º do Código de Defesa do Consumidor:\n\"O consumidor sempre poderá exigir a imediata correção de dados inexatos...\"",
+    "response": "Você deve notificar o cadastro de inadimplentes e a empresa credora, exigindo a correção imediata dos dados. Conforme o Artigo 43, §3º, você tem esse direito."
+  },
+  {
+    "instruction": "Uma empresa alterou minha franquia de dados sem meu consentimento. Isso é legal?",
+    "context": "Artigo 51, inciso X do Código de Defesa do Consumidor:\n\"São nulas... as cláusulas que... autorizem o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato...\"",
+    "response": "Não é legal. Alterações unilaterais que prejudiquem o consumidor são nulas conforme o Artigo 51, inciso X. Você pode exigir a manutenção dos termos originais ou rescindir o contrato sem ônus."
+  },
+  {
+    "instruction": "Posso exigir que um restaurante coloque preços no cardápio? Eles dizem que informam os preços verbalmente.",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara... sobre preço...\"",
+    "response": "Sim, você pode exigir que os preços sejam exibidos de forma clara no cardápio. O Artigo 6º, inciso III, garante seu direito à informação adequada sobre preços."
+  },
+  {
+    "instruction": "Uma empresa me enviou um cartão de crédito sem solicitação. Isso é permitido?",
+    "context": "Artigo 39, inciso III do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto ou fornecer qualquer serviço;\"",
+    "response": "Não, isso não é permitido. O envio de produtos ou serviços sem solicitação é proibido pelo Artigo 39, inciso III. Você não é obrigado a ativar ou utilizar o cartão."
+  },
+  {
+    "instruction": "A loja pode se recusar a receber pagamento em dinheiro alegando que só aceita cartão?",
+    "context": "Moeda corrente nacional é de aceitação obrigatória para pagamentos. O Código de Defesa do Consumidor assegura práticas não discriminatórias.",
+    "response": "A recusa em aceitar dinheiro, que é a moeda oficial, pode ser considerada prática abusiva e discriminatória. Você pode exigir o direito de pagar em dinheiro."
+  },
+  {
+    "instruction": "Uma propaganda utiliza termos técnicos que não entendo. Isso é aceitável?",
+    "context": "Artigo 36 do Código de Defesa do Consumidor:\n\"A publicidade deve ser veiculada de tal forma que o consumidor... a identifique como tal.\"",
+    "response": "A publicidade deve ser clara e compreensível. O uso de termos técnicos sem explicação pode tornar a mensagem enganosa ou dificultar a compreensão, violando os princípios do Artigo 36."
+  },
+  {
+    "instruction": "O fornecedor pode cobrar multa por eu ter desistido da compra no prazo legal de arrependimento?",
+    "context": "Artigo 49 do Código de Defesa do Consumidor:\n\"...os valores eventualmente pagos... serão devolvidos, de imediato...\"",
+    "response": "Não, o fornecedor não pode cobrar multa nesse caso. Conforme o Artigo 49, o direito de arrependimento garante a devolução integral do valor pago sem penalidades."
+  },
+  {
+    "instruction": "Uma loja não possui livro de reclamações. Isso é obrigatório?",
+    "context": "Alguns estados possuem legislação que obriga estabelecimentos a terem livro de reclamações, mas o Código de Defesa do Consumidor incentiva mecanismos para o consumidor expressar insatisfações.",
+    "response": "Embora o CDC não exija especificamente o livro de reclamações, é importante que o fornecedor ofereça canais para o consumidor registrar suas queixas. Verifique a legislação estadual ou municipal que pode exigir o livro."
+  },
+  {
+    "instruction": "Posso devolver um produto que comprei em uma loja física só porque não gostei?",
+    "context": "O direito de arrependimento previsto no Artigo 49 do CDC aplica-se a compras fora do estabelecimento comercial.",
+    "response": "Não há obrigação legal para a loja aceitar devolução de produtos por desistência em compras presenciais. A troca ou devolução nesses casos é uma liberalidade do estabelecimento."
+  },
+  {
+    "instruction": "A empresa pode exigir que eu forneça meus dados biométricos para concluir uma compra?",
+    "context": "Artigo 39, inciso V do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... exigir do consumidor vantagem manifestamente excessiva;\"",
+    "response": "Exigir dados biométricos pode ser considerado vantagem excessiva se não houver justificativa razoável. Você pode questionar a necessidade e recusar fornecer esses dados."
+  },
+  {
+    "instruction": "Comprei um pacote de TV por assinatura, mas canais foram retirados sem aviso. Posso cancelar sem multa?",
+    "context": "Artigo 51, inciso XII do Código de Defesa do Consumidor:\n\"São nulas... as cláusulas que... autorizem o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato...\"",
+    "response": "Sim, você pode cancelar sem multa. A retirada de canais pode ser considerada alteração unilateral do contrato, tornando nula a cláusula de fidelidade conforme o Artigo 51, inciso XIII."
+  },
+  {
+    "instruction": "A loja pode cobrar preços diferentes para pagamentos em dinheiro e no cartão?",
+    "context": "Lei n.º 13.455/2017 permite a diferenciação de preços conforme o meio de pagamento, desde que informada de forma clara e prévia.",
+    "response": "Sim, a loja pode oferecer preços diferentes para dinheiro e cartão, desde que informe claramente ao consumidor antes da compra."
+  },
+  {
+    "instruction": "Estou recebendo ligações de telemarketing mesmo tendo solicitado o bloqueio. O que posso fazer?",
+    "context": "Artigo 39, inciso IV do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... prevalecer-se da fraqueza ou ignorância do consumidor...\"",
+    "response": "Você pode registrar reclamação nos órgãos competentes, como Procon, e solicitar novamente o bloqueio. A insistência nas ligações pode ser considerada prática abusiva."
+  },
+  {
+    "instruction": "Uma oficina consertou meu carro e cobrou valores além do orçamento sem me avisar. Isso é legal?",
+    "context": "Artigo 39, inciso VI do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... executar serviços sem a prévia elaboração de orçamento e autorização expressa do consumidor...\"",
+    "response": "Não é legal. A oficina não pode cobrar valores acima do orçamento sem sua autorização prévia, conforme o Artigo 39, inciso VI."
+  },
+  {
+    "instruction": "Posso exigir ressarcimento por danos morais em caso de negativação indevida?",
+    "context": "Jurisprudência e o Artigo 6º, inciso VI do Código de Defesa do Consumidor:\n\"São direitos básicos... a efetiva prevenção e reparação de danos patrimoniais e morais...\"",
+    "response": "Sim, você pode exigir indenização por danos morais devido à negativação indevida, conforme o Artigo 6º, inciso VI."
+  },
+  {
+    "instruction": "A empresa de energia cortou meu fornecimento sem aviso prévio. Isso é permitido?",
+    "context": "Resoluções específicas da ANEEL regulamentam o corte de fornecimento, mas o CDC protege contra práticas abusivas. Artigo 22:\n\"Os órgãos públicos... são obrigados a fornecer serviços adequados, eficientes e seguros...\"",
+    "response": "Não, o corte sem aviso prévio é ilegal. A empresa deve seguir as normas, inclusive notificar antecipadamente. Você pode buscar reparação pelos transtornos causados."
+  },
+  {
+    "instruction": "Uma loja online não informa os dados do fornecedor em seu site. Isso está correto?",
+    "context": "Decreto Federal n.º 7.962/2013, conhecido como Decreto do Comércio Eletrônico, exige que informações do fornecedor sejam disponibilizadas.",
+    "response": "Não está correto. A loja deve informar CNPJ, endereço físico e meios de contato. A ausência dessas informações viola o decreto regulamentador do comércio eletrônico."
+  },
+  {
+    "instruction": "Recebi um boleto de cobrança sem nunca ter contratado o serviço. O que devo fazer?",
+    "context": "Artigo 39, inciso III do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto ou fornecer qualquer serviço;\"",
+    "response": "Você não deve pagar. O envio de cobranças sem solicitação é proibido. Se houver insistência ou ameaça, registre uma reclamação junto aos órgãos de defesa do consumidor."
+  },
+  {
+    "instruction": "A cláusula de contrato permite que a empresa transfira meus dados a terceiros. Isso é válido?",
+    "context": "Artigo 43 do Código de Defesa do Consumidor:\n\"Os cadastros... devem ser utilizados respeitando a finalidade para a qual foram fornecidos.\"",
+    "response": "A transferência de dados deve respeitar a finalidade inicial e requer consentimento específico. A cláusula pode ser considerada abusiva se não garantir a proteção adequada de seus dados."
+  },
+  {
+    "instruction": "Comprei um imóvel na planta e, após o prazo de entrega previsto no contrato, a construtora informou um atraso de seis meses. Quais são meus direitos em relação ao atraso na entrega do imóvel?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor de produtos ou serviços recusar cumprimento à oferta, apresentação ou publicidade, o consumidor poderá, alternativamente e à sua livre escolha:\nI - exigir o cumprimento forçado da obrigação, nos termos da oferta, apresentação ou publicidade;\nII - aceitar outro produto ou prestação de serviço equivalente;\nIII - rescindir o contrato, com direito à restituição de quantia eventualmente antecipada, monetariamente atualizada, e a perdas e danos.\"\nArtigo 14:\n\"O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.\"",
+    "response": "Você tem o direito de exigir o cumprimento do contrato, aceitar outro imóvel equivalente ou rescindir o contrato com a restituição dos valores pagos, acrescidos de correção monetária e indenização por perdas e danos, conforme o Artigo 35 do CDC. Além disso, pode reivindicar reparação por danos causados pelo atraso, de acordo com o Artigo 14."
+  },
+  {
+    "instruction": "Assinei um contrato de adesão com uma operadora de telefonia que possui cláusulas muito extensas e complexas, dificultando o entendimento. Essas cláusulas são válidas?",
+    "context": "Artigo 54 do Código de Defesa do Consumidor:\n\"Contrato de adesão é aquele cujas cláusulas tenham sido aprovadas pela autoridade competente ou estabelecidas unilateralmente pelo fornecedor de produtos ou serviços, sem que o consumidor possa discutir ou modificar substancialmente seu conteúdo.\"\nArtigo 46:\n\"Os contratos que regulam as relações de consumo não obrigarão os consumidores, se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo, ou se os respectivos instrumentos forem redigidos de modo a dificultar a compreensão de seu sentido e alcance.\"\nArtigo 47:\n\"As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.\"",
+    "response": "Cláusulas que dificultam a compreensão pelo consumidor podem ser consideradas abusivas. De acordo com o Artigo 46, contratos com cláusulas extensas e complexas que impedem o entendimento não obrigam o consumidor. Além disso, o Artigo 47 determina que essas cláusulas devem ser interpretadas de forma mais favorável ao consumidor."
+  },
+  {
+    "instruction": "Um produto importado que comprei apresentou defeito, mas o fabricante não possui assistência técnica no país. A loja onde comprei alega não ter responsabilidade. Como posso proceder?",
+    "context": "Artigo 12 do Código de Defesa do Consumidor:\n\"O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos.\"\nArtigo 13:\n\"O comerciante é igualmente responsável, nos termos do artigo anterior, quando:\nI - o fabricante, o construtor, o produtor ou o importador não puderem ser identificados;\"\nArtigo 18:\n\"Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo...\"",
+    "response": "A loja onde você comprou o produto é solidariamente responsável pelos defeitos apresentados, conforme os Artigos 13 e 18 do CDC. Você pode exigir a reparação do produto, a substituição por outro em perfeitas condições, ou a restituição do valor pago. A ausência de assistência técnica no país não exime o fornecedor da responsabilidade."
+  },
+  {
+    "instruction": "Contratei um serviço de assistência técnica domiciliar, mas o técnico causou danos à minha residência durante o reparo. A empresa alega que não se responsabiliza por danos causados por seus funcionários. Isso está correto?",
+    "context": "Artigo 14 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.\"\nArtigo 34:\n\"O fornecedor do produto ou serviço é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos.\"",
+    "response": "A empresa é solidariamente responsável pelos danos causados por seus funcionários durante a prestação do serviço, conforme os Artigos 14 e 34 do CDC. A alegação de não responsabilidade é inválida, e você tem direito à reparação pelos prejuízos sofridos."
+  },
+  {
+    "instruction": "Participei de um concurso cultural promovido por uma empresa, mas as regras não estavam claramente definidas, e a empresa mudou os critérios de seleção dos vencedores após o início do concurso. Isso é permitido?",
+    "context": "Artigo 31 do Código de Defesa do Consumidor:\n\"A oferta e apresentação de produtos ou serviços devem assegurar informações corretas, claras, precisas...\"\nArtigo 37, §1º:\n\"É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário, inteira ou parcialmente falsa...\"\nArtigo 51, inciso XV:\n\"São nulas de pleno direito as cláusulas contratuais que estejam em desacordo com o sistema de proteção ao consumidor.\"",
+    "response": "Não, isso não é permitido. A empresa deve fornecer informações claras e precisas sobre as regras do concurso, conforme o Artigo 31. Alterar os critérios após o início configura prática enganosa, violando o Artigo 37. Além disso, cláusulas que prejudiquem o consumidor são nulas, conforme o Artigo 51, inciso XV."
+  },
+  {
+    "instruction": "Uma instituição financeira está me oferecendo um contrato com juros abusivos e cláusulas que não permitem a renegociação da dívida. Posso questionar essas cláusulas?",
+    "context": "Artigo 6º, inciso V do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais...\"\nArtigo 51, inciso IV:\n\"São nulas de pleno direito as cláusulas contratuais relativas ao fornecimento de produtos e serviços que estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada...\"\nArtigo 39, inciso V:\n\"É vedado ao fornecedor exigir do consumidor vantagem manifestamente excessiva.\"",
+    "response": "Sim, você pode questionar essas cláusulas. Contratos com juros abusivos e que impedem a renegociação colocam o consumidor em desvantagem exagerada, o que é proibido pelos Artigos 39, inciso V, e 51, inciso IV. Além disso, o Artigo 6º, inciso V, assegura seu direito à modificação de cláusulas desproporcionais."
+  },
+  {
+    "instruction": "Após contratar um plano de saúde, descobri que algumas doenças preexistentes não seriam cobertas, mesmo após o período de carência. Não fui informado sobre isso no momento da contratação. O que posso fazer?",
+    "context": "Artigo 46 do Código de Defesa do Consumidor:\n\"Os contratos que regulam as relações de consumo não obrigarão os consumidores, se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo...\"\nArtigo 54, §4º:\n\"As cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão.\"\nArtigo 47:\n\"As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.\"",
+    "response": "Você pode contestar as limitações não informadas. Segundo o Artigo 46, você deve ter acesso prévio a todas as cláusulas contratuais. O Artigo 54, §4º, exige que limitações de direitos sejam destacadas e claras. Na ausência de tais informações, as cláusulas podem ser consideradas nulas, e o contrato deve ser interpretado a seu favor, conforme o Artigo 47."
+  },
+  {
+    "instruction": "Adquiri um veículo usado em uma concessionária, e após alguns dias, descobri que ele possui débitos de multas e impostos não informados. A empresa alega que não é responsável por essas dívidas anteriores. Isso procede?",
+    "context": "Artigo 12 do Código de Defesa do Consumidor:\n\"O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem... pela reparação dos danos causados aos consumidores por defeitos...\"\nArtigo 14:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.\"\nArtigo 18:\n\"Os fornecedores de produtos... respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios...\"",
+    "response": "A concessionária é responsável por informar e regularizar eventuais débitos do veículo antes da venda. A omissão dessa informação configura vício de qualidade, conforme o Artigo 18. Você tem o direito de exigir a resolução do problema, seja pela quitação dos débitos pela empresa, abatimento no preço ou até mesmo a rescisão do contrato."
+  },
+  {
+    "instruction": "Contratei um pacote de serviços de internet e TV a cabo com preço promocional por 12 meses. Após 6 meses, a empresa aumentou os valores alegando reajuste anual. Isso é permitido?",
+    "context": "Artigo 51, inciso X do Código de Defesa do Consumidor:\n\"São nulas de pleno direito as cláusulas contratuais que permitam ao fornecedor, direta ou indiretamente, variação do preço de maneira unilateral.\"\nArtigo 6º, inciso IV:\n\"São direitos básicos do consumidor: a proteção contra publicidade enganosa e abusiva...\"",
+    "response": "Não, isso não é permitido. O aumento unilateral do preço antes do término do período promocional viola o Artigo 51, inciso X. Você tem o direito de pagar o valor acordado até o final do período contratado. A prática também pode ser considerada publicidade enganosa, violando o Artigo 6º, inciso IV."
+  },
+  {
+    "instruction": "Ao participar de uma promoção 'Compre e Ganhe', recebi um produto de brinde que apresentou defeito. A empresa se recusa a trocar alegando que foi um presente. Tenho algum direito nesse caso?",
+    "context": "Artigo 7º, parágrafo único do Código de Defesa do Consumidor:\n\"Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo.\"\nArtigo 18:\n\"Os fornecedores de produtos... respondem solidariamente pelos vícios de qualidade...\"\nArtigo 39, inciso I:\n\"É vedado ao fornecedor condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço...\"",
+    "response": "Sim, você tem direito à garantia do produto recebido como brinde. Conforme o Artigo 18, os fornecedores respondem pelos vícios de qualidade. Além disso, o produto faz parte da relação de consumo estabelecida na promoção 'Compre e Ganhe', e a empresa é responsável pela qualidade do que fornece."
+  },
+  {
+    "instruction": "Recebi uma carta de cobrança de uma dívida antiga já paga, mas a empresa se recusa a corrigir a informação junto aos órgãos de proteção ao crédito. Como devo proceder?",
+    "context": "Artigo 43 do Código de Defesa do Consumidor:\n\"O consumidor, sem prejuízo do disposto no art. 86, terá acesso às informações existentes em cadastros... sobre ele, bem como sobre as suas respectivas fontes.\"\nParágrafo 3º:\n\"O consumidor sempre poderá exigir a imediata correção de dados inexatos.\"\nArtigo 73:\n\"Deixar de corrigir imediatamente informação sobre o consumidor, constante de cadastro, banco de dados, fichas ou registros, que sabe ou deveria saber ser inexata: Pena - Detenção de um a seis meses ou multa.\"",
+    "response": "Você tem o direito de exigir a correção imediata dos dados, conforme o Artigo 43, parágrafo 3º. A empresa é obrigada a atualizar as informações junto aos órgãos de proteção ao crédito. A recusa em corrigir pode resultar em penalidades previstas no Artigo 73, incluindo detenção ou multa."
+  },
+  {
+    "instruction": "Uma escola particular está exigindo que eu adquira materiais escolares exclusivamente com eles, com preços acima do mercado. Essa exigência é legal?",
+    "context": "Artigo 39, inciso I do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço...\"\nArtigo 6º, inciso II:\n\"São direitos básicos do consumidor: a educação e divulgação sobre o consumo adequado dos produtos e serviços, asseguradas a liberdade de escolha...\"",
+    "response": "Não, essa exigência é ilegal. Conforme o Artigo 39, inciso I, é vedado condicionar a prestação de um serviço (educação) à aquisição de outro produto ou serviço (materiais escolares). Você tem o direito de adquirir os materiais onde preferir, assegurado pela liberdade de escolha mencionada no Artigo 6º, inciso II."
+  },
+  {
+    "instruction": "Minha operadora de celular está bloqueando meu acesso à internet após atingir um limite de dados, mesmo em um plano supostamente ilimitado. Isso é correto?",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara sobre os diferentes produtos e serviços...\"\nArtigo 31:\n\"A oferta e apresentação de produtos ou serviços devem assegurar informações corretas, claras, precisas...\"\nArtigo 37, §1º:\n\"É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário... capaz de induzir em erro o consumidor...\"",
+    "response": "Se o plano foi anunciado como ilimitado e não houve clara informação sobre o limite de dados, a prática é enganosa, violando o Artigo 37, §1º. Você tem direito a informações claras e precisas, conforme os Artigos 6º, inciso III, e 31. A operadora deve cumprir o que foi ofertado ou permitir que você rescinda o contrato sem penalidades."
+  },
+  {
+    "instruction": "Adquiri um pacote turístico que incluía hospedagem em um hotel de categoria superior, mas ao chegar, fui acomodado em um hotel de categoria inferior sem explicações. Quais são meus direitos?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor de produtos ou serviços recusar cumprimento à oferta... o consumidor poderá...:\nI - exigir o cumprimento forçado da obrigação...;\nII - aceitar outro produto ou prestação de serviço equivalente;\nIII - rescindir o contrato, com direito à restituição de quantia... e a perdas e danos.\"\nArtigo 20, §2º:\n\"São impróprios os serviços que se mostram em desacordo com as normas regulamentares aplicáveis.\"",
+    "response": "Você pode exigir a prestação do serviço conforme contratado, ou optar por rescindir o contrato com reembolso e indenização por danos, de acordo com o Artigo 35. A substituição por um hotel de categoria inferior sem consentimento caracteriza descumprimento da oferta e má prestação do serviço, conforme o Artigo 20, §2º."
+  },
+  {
+    "instruction": "Uma empresa está dificultando o cancelamento de um serviço, exigindo minha presença física na loja, mesmo que o contrato tenha sido feito pela internet. Isso é permitido?",
+    "context": "Artigo 1º do Decreto Federal nº 7.962/2013:\n\"Este Decreto dispõe sobre a contratação no comércio eletrônico, visando à transparência das informações e ao fortalecimento das relações de consumo.\"\nArtigo 5º:\n\"O fornecedor deve assegurar mecanismo eficaz e gratuito para o exercício do direito de arrependimento...\"\nArtigo 6º, inciso III do CDC:\n\"São direitos básicos do consumidor: a informação adequada e clara sobre os diferentes produtos e serviços...\"",
+    "response": "Não é permitido dificultar o cancelamento do serviço. Segundo o Decreto nº 7.962/2013, o fornecedor deve oferecer meios eficazes e facilitados para o cancelamento, especialmente quando a contratação ocorreu pela internet. Exigir presença física é uma prática abusiva que infringe o direito à informação e facilitações previstas no CDC."
+  },
+  {
+    "instruction": "Após a quebra de um contrato de aluguel, fui informada de que teria que pagar uma multa exorbitante, equivalente a seis meses de aluguel. Essa cobrança é justa?",
+    "context": "Artigo 4º da Lei do Inquilinato (Lei nº 8.245/1991):\n\"Durante o prazo estipulado para a duração do contrato, não poderá o locador reaver o imóvel alugado...\"\nArtigo 413 do Código Civil:\n\"A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte...\"\nArtigo 51, inciso IV do CDC:\n\"São nulas de pleno direito as cláusulas contratuais que estabeleçam obrigações consideradas iníquas, abusivas...\"",
+    "response": "A multa por rescisão antecipada deve ser proporcional ao tempo restante do contrato. Cobranças exorbitantes são consideradas abusivas, conforme o Artigo 51, inciso IV, do CDC. Além disso, o Artigo 413 do Código Civil permite a redução equitativa da penalidade. Você pode negociar a redução da multa ou buscar auxílio judicial."
+  },
+  {
+    "instruction": "Um site de compras coletivas vendeu um voucher com validade de três meses, mas o estabelecimento se recusa a aceitar, alegando que não tem mais parceria com o site. Quais são meus direitos?",
+    "context": "Artigo 14 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.\"\nArtigo 20, §2º:\n\"São impróprios os serviços que se mostram em desacordo com as normas regulamentares aplicáveis...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Tanto o site quanto o estabelecimento são responsáveis pelo cumprimento da oferta. Você pode exigir o cumprimento forçado da obrigação, conforme o Artigo 35, ou solicitar a devolução dos valores pagos com correção monetária. A recusa em aceitar o voucher configura falha na prestação do serviço, conforme o Artigo 14."
+  },
+  {
+    "instruction": "Recebi uma proposta de empréstimo consignado com taxas de juros muito atrativas, mas após contratar, descobri que as taxas aplicadas eram maiores. A instituição financeira alega que houve um erro na proposta. Isso é aceitável?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade suficientemente precisa obriga o fornecedor que a fizer veicular e integra o contrato que vier a ser celebrado.\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Não é aceitável. A instituição financeira deve cumprir os termos da proposta apresentada. Conforme os Artigos 30 e 35, você pode exigir o cumprimento da oferta original. Alegar erro não exime a empresa de sua responsabilidade, especialmente se o erro não era evidente para o consumidor."
+  },
+  {
+    "instruction": "Uma oficina utilizou peças de reposição usadas no conserto do meu veículo sem minha autorização, cobrando como se fossem novas. Como posso proceder?",
+    "context": "Artigo 21 do Código de Defesa do Consumidor:\n\"No caso de fornecimento de serviços de reparação de qualquer produto, considera-se implícita a obrigação do fornecedor de empregar componentes de reposição novos, adequados e originais...\"\nParágrafo único:\n\"Mediante autorização do consumidor, poderá ser empregado componente de reposição usado ou recondicionado, desde que em perfeitas condições de funcionamento.\"",
+    "response": "A oficina agiu de forma irregular. Conforme o Artigo 21, é obrigação do fornecedor utilizar peças novas e originais, a menos que haja autorização expressa do consumidor para usar peças usadas. Você pode exigir a substituição das peças por novas ou a restituição dos valores pagos, além de possíveis indenizações por danos."
+  },
+  {
+    "instruction": "Assinei um contrato de prestação de serviços educacionais que prevê juros de mora de 5% ao mês em caso de atraso no pagamento. Essa cláusula é válida?",
+    "context": "Artigo 52, §1º do Código de Defesa do Consumidor:\n\"As multas de mora decorrentes do inadimplemento de obrigações no seu termo não poderão ser superiores a dois por cento do valor da prestação.\"\nArtigo 51, inciso IV:\n\"São nulas de pleno direito as cláusulas contratuais que estabeleçam obrigações consideradas iníquas, abusivas...\"",
+    "response": "A cláusula é abusiva e nula de pleno direito. O Artigo 52, §1º, limita a multa de mora a 2% do valor da prestação. Portanto, juros de 5% ao mês são excessivos e violam também o Artigo 51, inciso IV."
+  },
+  {
+    "instruction": "Uma clínica odontológica realizou um procedimento diferente do que havia sido orçado e cobrou valores adicionais sem meu consentimento. Quais são meus direitos?",
+    "context": "Artigo 39, inciso VI do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor executar serviços sem a prévia elaboração de orçamento e autorização expressa do consumidor...\"\nArtigo 40, §2º:\n\"Uma vez aprovado pelo consumidor, o orçamento obriga as partes e somente pode ser alterado mediante livre negociação das partes.\"\nArtigo 42:\n\"O consumidor cobrado em quantia indevida tem direito à repetição do indébito...\"",
+    "response": "Você não é obrigado a pagar pelos procedimentos não autorizados. Conforme o Artigo 39, inciso VI, e o Artigo 40, §2º, qualquer alteração no orçamento deve ser previamente autorizada por você. Além disso, o Artigo 42 assegura seu direito à restituição em dobro de valores cobrados indevidamente."
+  },
+  {
+    "instruction": "Contratei um serviço de entrega que prometia entrega em até 24 horas. Já se passaram três dias e não recebi meu produto. A empresa alega que não pode cumprir o prazo devido a problemas logísticos. Quais são meus direitos?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor de produtos ou serviços recusar cumprimento à oferta, apresentação ou publicidade, o consumidor poderá, alternativamente e à sua livre escolha:\nI - exigir o cumprimento forçado da obrigação, nos termos da oferta, apresentação ou publicidade;\nII - aceitar outro produto ou prestação de serviço equivalente;\nIII - rescindir o contrato, com direito à restituição de quantia eventualmente antecipada, monetariamente atualizada, e a perdas e danos.\"",
+    "response": "Você tem o direito de exigir o cumprimento do prazo inicialmente informado ou optar pela rescisão do contrato, com restituição do valor pago e possível indenização por perdas e danos, conforme o Artigo 35 do CDC. A empresa é responsável por cumprir o que foi ofertado, independentemente de problemas internos."
+  },
+  {
+    "instruction": "Um curso online que adquiri anunciou certificação reconhecida, mas após a conclusão, descobri que o certificado não tem validade oficial. Como devo proceder?",
+    "context": "Artigo 37 do Código de Defesa do Consumidor:\n\"É proibida toda publicidade enganosa ou abusiva.\"\n§1º:\n\"É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário... capaz de induzir em erro o consumidor...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... rescindir o contrato, com direito à restituição de quantia... e a perdas e danos.\"",
+    "response": "Você pode solicitar a rescisão do contrato e a restituição do valor pago, além de indenização por danos, pois houve publicidade enganosa, conforme o Artigo 37. A empresa não cumpriu com a oferta anunciada, e você está amparado pelo Artigo 35."
+  },
+  {
+    "instruction": "Em uma liquidação, adquiri um eletrodoméstico com desconto significativo. O produto apresentou defeito em menos de 30 dias, mas a loja alega que a garantia não se aplica a produtos em promoção. Isso é correto?",
+    "context": "Artigo 26 do Código de Defesa do Consumidor:\n\"O direito de reclamar pelos vícios aparentes ou de fácil constatação caduca em:\nI - trinta dias, tratando-se de fornecimento de serviço e de produto não duráveis;\nII - noventa dias, tratando-se de fornecimento de serviço e de produto duráveis.\"\nArtigo 24:\n\"A garantia legal de adequação do produto ou serviço independe de termo expresso, vedada a exoneração contratual do fornecedor.\"",
+    "response": "Não, isso não é correto. A garantia legal se aplica independentemente do produto estar em promoção, conforme os Artigos 24 e 26. Você tem o direito de reclamar e exigir a reparação, substituição ou restituição do valor pago."
+  },
+  {
+    "instruction": "Fui vítima de clonagem de cartão após uma compra online, e a loja se recusa a auxiliar na investigação, alegando não ter responsabilidade. Quais são meus direitos?",
+    "context": "Artigo 14 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços...\"\nArtigo 6º, inciso VI:\n\"São direitos básicos do consumidor: a efetiva prevenção e reparação de danos patrimoniais e morais...\"",
+    "response": "A loja tem o dever de garantir a segurança nas transações online. Você tem o direito à reparação dos danos sofridos, conforme o Artigo 14. Além disso, pode exigir auxílio na investigação e tomada de medidas para evitar novos prejuízos, amparado pelo Artigo 6º, inciso VI."
+  },
+  {
+    "instruction": "Uma concessionária de energia elétrica está cobrando valores referentes a meses passados, alegando erro de leitura, e ameaça cortar o fornecimento se não efetuado o pagamento imediato. Isso é permitido?",
+    "context": "Artigo 22 do Código de Defesa do Consumidor:\n\"Os órgãos públicos, por si ou suas empresas, concessionárias ou permissionárias, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos.\"\nParágrafo único:\n\"Nos casos de descumprimento, serão as pessoas jurídicas compelidas a cumprir as obrigações... e a reparar os danos causados...\"",
+    "response": "A cobrança retroativa por erro da concessionária sem prévia negociação pode ser considerada abusiva. Você tem o direito a questionar os valores e negociar o pagamento. Além disso, o corte imediato do serviço essencial pode violar o Artigo 22."
+  },
+  {
+    "instruction": "Após realizar um financiamento, percebi que os juros aplicados diferem dos informados originalmente, devido a taxas adicionais não explicadas. Posso contestar o contrato?",
+    "context": "Artigo 52 do Código de Defesa do Consumidor:\n\"No fornecimento de produtos ou serviços que envolva outorga de crédito ou concessão de financiamento ao consumidor, o fornecedor deverá, entre outros requisitos, informá-lo prévia e adequadamente sobre:\nI - preço do produto ou serviço em moeda corrente nacional;\nII - montante dos juros de mora e da taxa efetiva anual de juros;\nIII - acréscimos legalmente previstos;\"\nArtigo 6º, inciso III:\n\"São direitos básicos do consumidor: a informação adequada e clara...\"",
+    "response": "Sim, você pode contestar o contrato. O fornecedor é obrigado a informar claramente todas as taxas e encargos, conforme o Artigo 52. A falta de transparência viola também o Artigo 6º, inciso III. Você pode exigir a retificação do contrato ou a rescisão, com possível restituição de valores."
+  },
+  {
+    "instruction": "Uma empresa oferece um período de teste gratuito para um serviço, mas não informa claramente que, após esse período, haverá cobrança automática. Fui cobrado sem consentimento explícito. Isso é legal?",
+    "context": "Artigo 6º, inciso III do Código de Defesa do Consumidor:\n\"São direitos básicos do consumidor: a informação adequada e clara...\"\nArtigo 39, inciso III:\n\"É vedado ao fornecedor... enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto ou fornecer qualquer serviço;\"",
+    "response": "Não é legal. A cobrança automática sem consentimento claro é uma prática abusiva. Você tem direito à informação adequada, conforme o Artigo 6º, inciso III, e o fornecimento de serviço sem solicitação viola o Artigo 39, inciso III. Você pode exigir o estorno dos valores cobrados."
+  },
+  {
+    "instruction": "Após receber um orçamento de seguro veicular, concordei com os valores e coberturas, mas ao receber a apólice, percebi que as condições eram diferentes. A seguradora alega que o contrato padrão sofreu alterações por políticas internas. Posso exigir as condições originais?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade suficientemente precisa obriga o fornecedor... e integra o contrato.\"\nArtigo 46:\n\"Os contratos... não obrigarão os consumidores, se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo...\"\nArtigo 47:\n\"As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.\"",
+    "response": "Sim, você pode exigir que as condições originais sejam mantidas. Conforme o Artigo 30, as informações e ofertas feitas integram o contrato. A alteração sem prévia comunicação viola o Artigo 46, e as cláusulas devem ser interpretadas a seu favor, conforme o Artigo 47."
+  },
+  {
+    "instruction": "Contratei um provedor de serviços de hospedagem de sites que garantiu 99,9% de uptime. Entretanto, meu site fica frequentemente fora do ar, prejudicando meus negócios. A empresa se exime de responsabilidade alegando que os termos do SLA permitem tais falhas. Como posso proceder?",
+    "context": "Artigo 20 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo ou lhes diminuam o valor...\"\n§2º:\n\"São impróprios os serviços que se mostrem inadequados para os fins que razoavelmente deles se esperam...\"",
+    "response": "Você tem o direito de exigir a adequada prestação do serviço ou a rescisão do contrato com restituição dos valores pagos e possível indenização por perdas e danos. A prestação falha do serviço viola o Artigo 20, e o fornecedor não pode se eximir de responsabilidade por meio de cláusulas contratuais que contrariem o CDC."
+  },
+  {
+    "instruction": "Adquiri um medicamento que apresentou reações adversas não especificadas na bula. Descobri que a empresa já havia sido notificada sobre tais efeitos, mas não atualizou as informações. Quais são meus direitos?",
+    "context": "Artigo 10 do Código de Defesa do Consumidor:\n\"O fornecedor não poderá colocar no mercado de consumo produto ou serviço que sabe ou deveria saber apresentar alto grau de nocividade ou periculosidade à saúde ou segurança.\"\n§1º:\n\"O fornecedor de produtos e serviços que, posteriormente à sua introdução no mercado de consumo, tiver conhecimento da periculosidade que apresentem, deverá comunicar o fato imediatamente às autoridades competentes e aos consumidores...\"",
+    "response": "Você tem direito à reparação por danos sofridos. A empresa violou o Artigo 10 ao não informar os riscos conhecidos. Pode ser responsabilizada civilmente e está sujeita a sanções administrativas. Você pode procurar auxílio jurídico para buscar indenização e notificar os órgãos de vigilância sanitária."
+  },
+  {
+    "instruction": "Uma empresa de venda direta está fazendo cobranças em meu cartão de crédito que não autorizei, alegando que faço parte de um programa de assinaturas que desconheço. Como devo proceder?",
+    "context": "Artigo 39, inciso III do Código de Defesa do Consumidor:\n\"É vedado ao fornecedor... enviar ou entregar ao consumidor, sem solicitação prévia, qualquer produto ou fornecer qualquer serviço;\"\nArtigo 42:\n\"O consumidor cobrado em quantia indevida tem direito à repetição do indébito, por valor igual ao dobro do que pagou em excesso...\"",
+    "response": "Você não é obrigado a pagar por serviços não solicitados. Conforme o Artigo 39, inciso III, a prática é proibida. Além disso, o Artigo 42 lhe concede o direito de receber em dobro os valores cobrados indevidamente. Você deve contestar as cobranças junto à administradora do cartão e à empresa, além de considerar acionar os órgãos de defesa do consumidor."
+  },
+  {
+    "instruction": "Comprei um pacote de canais adicionais na minha TV por assinatura, mas após alguns meses, os canais foram substituídos por outros sem meu consentimento. Posso cancelar o pacote sem multa?",
+    "context": "Artigo 51, inciso XIII do Código de Defesa do Consumidor:\n\"São nulas de pleno direito as cláusulas contratuais que autorizem o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato, após sua celebração...\"",
+    "response": "Sim, você pode cancelar o pacote sem multa. A alteração unilateral dos canais contratados sem seu consentimento viola o Artigo 51, inciso XIII. Você tem o direito de rescindir o contrato ou exigir a manutenção das condições originais."
+  },
+  {
+    "instruction": "Participei de um leilão online de produtos e arrematei um item por um valor baixo. A empresa se recusa a concluir a venda, alegando que houve um erro no sistema. Tenho direito a exigir o produto?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade... obriga o fornecedor...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Você pode exigir o cumprimento da oferta, conforme os Artigos 30 e 35. A empresa é responsável por garantir o correto funcionamento do sistema de leilão e cumprir com as ofertas realizadas, a menos que consiga comprovar que houve um erro grosseiro que inviabilize a transação."
+  },
+  {
+    "instruction": "Contratei um pacote de intercâmbio estudantil, mas a agência não providenciou o visto a tempo, e perdi a viagem. Eles dizem que não são responsáveis pelos trâmites burocráticos. Quais são meus direitos?",
+    "context": "Artigo 14 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços...\"\nArtigo 20, §2º:\n\"São impróprios os serviços que se mostrem inadequados para os fins que razoavelmente deles se esperam...\"",
+    "response": "A agência é responsável por organizar todos os aspectos do intercâmbio, incluindo orientações e suporte para obtenção do visto. A falha em prestar o serviço adequadamente viola os Artigos 14 e 20. Você tem direito à restituição dos valores pagos e a indenização por perdas e danos."
+  },
+  {
+    "instruction": "Uma assistência técnica ficou com meu aparelho eletrônico por mais de 90 dias sem consertá-lo. Posso considerar o produto como perdido e exigir indenização?",
+    "context": "Artigo 18, §1º, inciso II do Código de Defesa do Consumidor:\n\"Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir... a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos;\"\nArtigo 32:\n\"Os fabricantes e importadores deverão assegurar a oferta de componentes e peças de reposição enquanto não cessar a fabricação ou importação do produto.\"",
+    "response": "Sim, você pode exigir a restituição do valor pago ou um produto novo. A assistência técnica não cumpriu com o prazo máximo de 30 dias, conforme o Artigo 18, §1º. Além disso, o fornecedor deve garantir a disponibilidade de peças para reparo, conforme o Artigo 32. Você pode também buscar indenização por eventuais prejuízos sofridos."
+  },
+  {
+    "instruction": "Adquiri ingressos para um evento que foi adiado indefinidamente. A produtora se recusa a reembolsar, alegando que os ingressos serão válidos para a nova data. Sou obrigado a aceitar?",
+    "context": "Artigo 35 do Código de Defesa do Consumidor:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... rescindir o contrato, com direito à restituição de quantia... e a perdas e danos.\"",
+    "response": "Você não é obrigado a aceitar a remarcação. Conforme o Artigo 35, você pode optar por rescindir o contrato e exigir o reembolso do valor pago. A mudança de data configura alteração na oferta originalmente contratada."
+  },
+  {
+    "instruction": "Um contrato de plano de saúde coletivo foi rescindido unilateralmente pela operadora, e fiquei sem cobertura. Posso exigir a manutenção do plano ou migrar para um individual sem carência?",
+    "context": "Resolução Normativa nº 195 da ANS regula a rescisão unilateral de contratos coletivos, exigindo justificativa e prazo de aviso prévio.\nArtigo 35-A do Código de Defesa do Consumidor:\n\"Os planos e seguros de saúde submeter-se-ão às disposições deste código...\"",
+    "response": "Você pode questionar a rescisão e exigir explicações formais da operadora. A ANS estabelece critérios para tais rescisões. Além disso, pode solicitar a portabilidade para um plano individual sem cumprir novas carências, conforme regulamentação específica. O CDC aplica-se aos planos de saúde, garantindo proteção ao consumidor."
+  },
+  {
+    "instruction": "Uma empresa de consórcio está me cobrando taxas administrativas não previstas no contrato inicial. Eles alegam que as taxas são atualizadas periodicamente. Como devo agir?",
+    "context": "Artigo 51, inciso X do Código de Defesa do Consumidor:\n\"São nulas de pleno direito as cláusulas contratuais que permitam ao fornecedor, direta ou indiretamente, variação do preço de maneira unilateral;\"\nArtigo 6º, inciso III:\n\"São direitos básicos do consumidor: a informação adequada e clara...\"",
+    "response": "Você pode contestar as cobranças. Alterações unilaterais nos valores das taxas sem previsão contratual violam o Artigo 51, inciso X. Além disso, você tem direito a informações claras e prévias sobre quaisquer alterações, conforme o Artigo 6º, inciso III. Pode exigir a manutenção das condições originais ou rescindir o contrato sem penalidades."
+  },
+  {
+    "instruction": "Participei de uma promoção que prometia um brinde mediante cadastro e compra de determinado valor. Após cumprir os requisitos, fui informado de que os brindes haviam acabado. Tenho direito ao brinde?",
+    "context": "Artigo 30 do Código de Defesa do Consumidor:\n\"Toda informação ou publicidade... obriga o fornecedor...\"\nArtigo 35:\n\"Se o fornecedor... recusar cumprimento à oferta... o consumidor poderá... exigir o cumprimento forçado da obrigação...\"",
+    "response": "Sim, você tem direito a receber o brinde conforme anunciado. O fornecedor é obrigado a cumprir com a oferta, conforme os Artigos 30 e 35. A alegação de falta de estoque não exime a empresa da responsabilidade, especialmente se não foi informada a limitação de brindes na promoção."
+  },
+  {
+    "instruction": "Contratei um serviço de buffet para uma festa, mas no dia do evento, a empresa falhou em fornecer diversos itens contratados. Quais ações posso tomar?",
+    "context": "Artigo 20 do Código de Defesa do Consumidor:\n\"O fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo ou lhes diminuam o valor...\"\n§2º:\n\"São impróprios os serviços que se mostrem inadequados para os fins que razoavelmente deles se esperam...\"\nArtigo 14:\n\"O fornecedor de serviços responde... pela reparação dos danos causados aos consumidores...\"",
+    "response": "Você pode exigir a restituição proporcional do valor pago e indenização por danos materiais e morais. A empresa falhou na prestação do serviço conforme contratado, violando os Artigos 14 e 20. Pode, também, registrar reclamação nos órgãos de defesa do consumidor e buscar reparação judicial."
+  },
+  {
+    "instruction": "A academia onde estou matriculado foi vendida, e os novos proprietários alteraram unilateralmente as condições do contrato, incluindo aumento de mensalidades e horários. Isso é permitido?",
+    "context": "Artigo 51, inciso XIII do Código de Defesa do Consumidor:\n\"São nulas... as cláusulas que autorizem o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato...\"\nArtigo 6º, inciso V:\n\"São direitos básicos... a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais...\"",
+    "response": "Não, alterações unilaterais que prejudiquem o consumidor são proibidas. Conforme o Artigo 51, inciso XIII, cláusulas que permitem tais modificações são nulas. Você pode exigir a manutenção das condições originais ou rescindir o contrato sem penalidades, amparado pelo Artigo 6º, inciso V."
+  },
+  {
+    "instruction": "Ao tentar cancelar um serviço de TV por assinatura, fui informado de que só poderia fazê-lo mediante o pagamento de multa integral referente ao restante do contrato. A multa é proporcional ao tempo restante?",
+    "context": "Artigo 51, inciso IV do Código de Defesa do Consumidor:\n\"São nulas... as cláusulas que estabeleçam obrigações consideradas iníquas, abusivas...\"\nArtigo 6º, inciso V:\n\"São direitos básicos... a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais...\"",
+    "response": "A cobrança de multa integral pode ser considerada abusiva. A multa por rescisão antecipada deve ser proporcional ao tempo restante do contrato, conforme os princípios estabelecidos nos Artigos 51, inciso IV, e 6º, inciso V. Você pode contestar a cobrança e negociar valores justos."
+  },
+  {
+    "instruction": "Comprei uma máquina fotográfica usada em um site de vendas entre particulares. O produto chegou com defeitos não informados pelo vendedor. Posso aplicar o CDC nessa situação?",
+    "context": "O Código de Defesa do Consumidor aplica-se a relações de consumo caracterizadas por fornecedor e consumidor.\nArtigo 2º:\n\"Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final.\"\nArtigo 3º:\n\"Fornecedor é toda pessoa física ou jurídica... que desenvolvem atividades de produção, montagem, criação, construção, transformação... comercialização de produtos ou prestação de serviços.\"",
+    "response": "Em transações entre particulares, o CDC não se aplica diretamente, pois o vendedor não é considerado fornecedor nos termos do Artigo 3º. Você pode buscar soluções com base no Código Civil, alegando vício redibitório ou dolo por omissão de informações."
+  }
+]
+
