@@ -20,5 +20,7 @@ Este repositório contém todo o código e arquivos criados pelo alunos para rea
 
 - **aula_sabado.ipynb**: Arquivo que contem notas da aula de sábado sobre a preparação da infraestrutura;
 
+- Main Script: https://drive.google.com/file/d/1WPxfcnv-F4AJLNbi9HT3t0_l6Fvmdh7g/view?usp=sharing
 
+    - O arquivo .gguf é grande demais para o github;
 
